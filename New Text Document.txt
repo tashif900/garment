@@ -1,0 +1,10 @@
+
+
+C:\xampp\htdocs\LaravelVueJs>php artisan passport:install
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client secret: VrB8hHyx0so0jztzy5buFVRoVXZZWIdhmIyNsScy
+Password grant client created successfully.
+Client ID: 2
+Client secret: CB81T5KyH7axCCDQiXQO8gAAuDGTWVGUgBrwl8Hq

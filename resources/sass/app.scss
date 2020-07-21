@@ -1,0 +1,30 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+$fa-font-path: "../webfonts";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+#table_search{
+	border-radius:100px;
+}
+#add_user{
+	border-radius:100px;
+}
+#s_btn{
+	border-radius:100%;
+}
+.info-box{
+	box-shadow: 0px 10px 5px grey;
+}
+.card{
+	box-shadow: 0px 10px 5px grey;
+}
+
